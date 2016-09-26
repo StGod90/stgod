@@ -1,2 +1,1 @@
-# stgod
-mytest
+stgod.com
